@@ -1,0 +1,233 @@
+
+19:53:24 | START
+ | --------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:53:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:53:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:53:24 | DIRECTORY INITIALIZED TO: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:53:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:53:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:50 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:50 | LIST OF FOLDERS RETURNED: | ['Python Files']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:55 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:55 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:55 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:55 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1 TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:54:55 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:04 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:04 | LIST OF FOLDERS RETURNED: | ['1', '2', '3', '4']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:10 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:10 | LIST OF FOLDERS RETURNED: | ['1', '2', '3', '4']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:11 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:11 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:11 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:11 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:11 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:14 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:14 | LIST OF FOLDERS RETURNED: | ['4A', '4B', '4C', '4D', '4E']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES/4 TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | LIST OF FOLDERS RETURNED: | []
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES/4/4D TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:23 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:24 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:24 | ITEM 4D REMOVED FROM FOLDER: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:32 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:32 | LIST OF FOLDERS RETURNED: | ['4A', '4B', '4C', '4E']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES/4 TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:42 | FOLDER 4D ADDED TO: | Directory G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:45 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:45 | LIST OF FOLDERS RETURNED: | []
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:46 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4/4D
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:46 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:46 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:46 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES/4/4D TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:46 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:47 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:47 | LIST OF FOLDERS RETURNED: | ['4A', '4B', '4C', '4E', '4D']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:58 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:58 | LIST OF FOLDERS RETURNED: | ['4A', '4B', '4C', '4E', '4D']
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:59 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:59 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:55:59 | DIRECTORY COULD NOT BE CHANGED: | 4F
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files/4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES/4 TO: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1/Python Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:21 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:22 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:22 | DIRECTORY HAS BEEN CHANGED FROM G:/SHARED DRIVES/3320/PROJECT 2/PROGRAM 1/PYTHON FILES TO: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:22 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:22 | WORKING DIRECTORY PRINTED: | G:/Shared drives/3320/Project 2/Program 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+19:56:22 | STOP: | Program has been stopped
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
